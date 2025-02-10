@@ -10,9 +10,8 @@ I’m a **Professional Android Developer** 💻 from Bangladesh 🇧🇩. Passio
 - 🛠️ Building cool & innovative apps  
 - 🌱 Currently learning **Advanced Jetpack Compose & AI Integration in Apps**  
 - ⚽ **Football Fan** | Favorite Player: Neymar Jr | Club: **Real Madrid** 💛
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesourov&show_icons=true&theme=radical)
+
 
 
 ---

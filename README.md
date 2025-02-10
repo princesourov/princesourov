@@ -39,3 +39,12 @@ I’m a **Professional Android Developer** 💻 from Bangladesh 🇧🇩. Passio
 ---
 
 🔥 Always excited to work on new Android projects and collaborate with developers worldwide. Feel free to connect with me! 🚀
+
+## 🚀 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesourov&show_icons=true&theme=radical)
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princesourov&layout=compact&theme=radical)
+
+## 🏆 Achievements
+![GitHub followers](https://img.shields.io/github/followers/princesourov?style=social)

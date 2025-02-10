@@ -5,6 +5,7 @@ I’m a **Professional Android Developer** 💻 from Bangladesh 🇧🇩. Passio
 ---
 ![GitHub followers](https://img.shields.io/github/followers/princesourov?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=princesourov)
+[![Twitter](https://img.shields.io/twitter/follow/princesourov?style=social)](https://twitter.com/iqbal__official)
 
 
 ### 🚀 About Me:
@@ -35,11 +36,11 @@ I’m a **Professional Android Developer** 💻 from Bangladesh 🇧🇩. Passio
 ---
 
 ### 🌎 Connect With Me:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princesourov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princesourov41@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-hossain-sourov)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princesourov)
-[![Twitter](https://img.shields.io/twitter/follow/princesourov?style=social)](https://twitter.com/iqbal__official)
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://twitter.com/iqbal__official)
+[![Twitter](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://twitter.com/iqbal__official)
+[![Instagram](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.instagram.com/hearts.4_maisha)
 
 
 

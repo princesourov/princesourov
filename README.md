@@ -7,7 +7,7 @@ I’m a **Professional Android Developer** 💻 from Bangladesh 🇧🇩. Passio
 
 ![Profile views](https://komarev.com/ghpvc/?username=princesourov)
 
-[![Twitter](https://img.shields.io/twitter/follow/princesourov?style=social)](https://twitter.com/iqbal__official)
+[![Twitter](https://img.shields.io/twitter/follow/iqbal__official?style=social)](https://twitter.com/iqbal__official)
 
 
 

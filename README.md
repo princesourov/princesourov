@@ -3,6 +3,9 @@
 I’m a **Professional Android Developer** 💻 from Bangladesh 🇧🇩. Passionate about building modern, efficient, and user-friendly mobile applications using **Kotlin**, **Jetpack Compose**, and the latest Android technologies. 🚀
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/princesourov?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=princesourov)
+
 
 ### 🚀 About Me:
 - 🎓 **Computer Science Student**  
@@ -35,16 +38,11 @@ I’m a **Professional Android Developer** 💻 from Bangladesh 🇧🇩. Passio
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princesourov41@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-hossain-sourov)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princesourov)
+[![Twitter](https://img.shields.io/twitter/follow/princesourov?style=social)](https://twitter.com/iqbal__official)
+[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://twitter.com/iqbal__official)
+
+
 
 ---
 
 🔥 Always excited to work on new Android projects and collaborate with developers worldwide. Feel free to connect with me! 🚀
-
-## 🚀 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesourov&show_icons=true&theme=radical)
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princesourov&layout=compact&theme=radical)
-
-## 🏆 Achievements
-![GitHub followers](https://img.shields.io/github/followers/princesourov?style=social)

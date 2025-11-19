@@ -35,6 +35,11 @@ I’m a **Professional Android Developer** 💻 from Bangladesh 🇧🇩. Passio
 ---
 
 ## 📊 GitHub Stats:
+
+<div align="start">
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=princesourov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesourov&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princesourov&layout=compact&theme=radical)](https://github.com/princesourov)

@@ -1,4 +1,8 @@
-# Hi there, I'm Iqbal Hossain Sourav! 👋
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+everyone+!;I'm+Iqbal+Hossain+Sourov&color=ffffff&size=35&center=false&vCenter=true&width=500&font=source+code+pro" />
+  </a>
+</p>
 
 I’m a **Professional Android Developer** 💻 from Bangladesh 🇧🇩. Passionate about building modern, efficient, and user-friendly mobile applications using **Kotlin**, **Jetpack Compose**, and the latest Android technologies. 🚀
 
